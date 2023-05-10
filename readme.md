@@ -28,8 +28,19 @@
 4. Logika
 
 ## Condition
+- If Statement
+- Switch Statement
+
 ## Looping
+- while loop
+- for loop
+
 ## Function
+tempat untuk menyimpan Program
+
 ## Array
+sebuah tipe data yang memiliki banyak value
+
 ## Object
+sebuah tipe data yang memiliki banyak variable
 
